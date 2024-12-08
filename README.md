@@ -32,7 +32,7 @@ PayFi崛起的前景初探
 
 **杂谈篇**  
 2021年空投参与实录  
-[Web3行业个人实践：探索Web3赛道全景]((https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/Web3%E8%A1%8C%E4%B8%9A%E4%B8%AA%E4%BA%BA%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%8E%A2%E7%B4%A2Web3%E8%B5%9B%E9%81%93%E5%85%A8%E6%99%AF.md))  
+[Web3行业个人实践：探索Web3赛道全景](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/Web3%E8%A1%8C%E4%B8%9A%E4%B8%AA%E4%BA%BA%E5%AE%9E%E8%B7%B5%EF%BC%9A%E6%8E%A2%E7%B4%A2Web3%E8%B5%9B%E9%81%93%E5%85%A8%E6%99%AF.md)  
 DAO治理的价值与当前局限性  
 [Web3的理想和未来究竟如何体现](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/Web3%E7%9A%84%E7%90%86%E6%83%B3%E5%92%8C%E6%9C%AA%E6%9D%A5%E7%A9%B6%E7%AB%9F%E5%A6%82%E4%BD%95%E4%BD%93%E7%8E%B0.md)  
 [Meme投资反思和复盘](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/Meme%E6%8A%95%E8%B5%84%E5%8F%8D%E6%80%9D%E5%92%8C%E5%A4%8D%E7%9B%98.md)
