@@ -14,7 +14,7 @@ DeFi是现阶段Web3发展的基石，事实上我也认为DeFi summer是Web3发
 [细分赛道06-收益聚合研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9306-%E6%94%B6%E7%9B%8A%E8%81%9A%E5%90%88%E7%A0%94%E7%A9%B6.md)  
 [细分赛道07-预言机研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9307-%E9%A2%84%E8%A8%80%E6%9C%BA%E7%A0%94%E7%A9%B6.md)  
 [细分赛道08-支付研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9308-%E6%94%AF%E4%BB%98%E7%A0%94%E7%A9%B6.md)  
-细分赛道09-NFTfi研究  
+[细分赛道09-NFTfi研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9309-NFTfi%E7%A0%94%E7%A9%B6.md)  
 细分赛道10-跨链桥研究  
 细分赛道11-质押与再质押研究  
 细分赛道12-市场预测赛道研究
