@@ -13,7 +13,7 @@ DeFi是现阶段Web3发展的基石，事实上我也认为DeFi summer是Web3发
 [细分赛道05-合成资产研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9305-%E5%90%88%E6%88%90%E8%B5%84%E4%BA%A7%E7%A0%94%E7%A9%B6.md)  
 [细分赛道06-收益聚合研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9306-%E6%94%B6%E7%9B%8A%E8%81%9A%E5%90%88%E7%A0%94%E7%A9%B6.md)  
 细分赛道07-预言机研究  
-细分赛道08-支付研究  
+[细分赛道08-支付研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9308-%E6%94%AF%E4%BB%98%E7%A0%94%E7%A9%B6.md)  
 细分赛道09-NFTfi研究  
 细分赛道10-跨链桥研究  
 细分赛道11-质押与再质押研究  
@@ -28,7 +28,7 @@ AMM不同类型代码解构：流动性与集中市场的新趋势
 DeFi的未来演化方向  
 DeFi赛道的流动性进化：从流动性挖矿到多链流动性聚合  
 主流国家的最新监管政策盘点  
-PayFi崛起的前景初探
+[PayFi崛起的前景初探](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9308-%E6%94%AF%E4%BB%98%E7%A0%94%E7%A9%B6.md)
 
 **杂谈篇**  
 Defi空投参与实录  
