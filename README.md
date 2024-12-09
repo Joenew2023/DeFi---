@@ -26,7 +26,7 @@ AMM不同类型代码解构：流动性与集中市场的新趋势
 
 **行业认知篇**  
 DeFi的未来演化方向  
-DeFi赛道的流动性进化：从流动性挖矿到多链流动性聚合  
+DeFi赛道的流动性进化之路
 主流国家的最新监管政策盘点  
 [PayFi崛起的前景初探](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9308-%E6%94%AF%E4%BB%98%E7%A0%94%E7%A9%B6.md)
 
