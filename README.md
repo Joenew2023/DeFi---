@@ -21,7 +21,7 @@ DeFi是现阶段Web3发展的基石，事实上我也认为DeFi summer是Web3发
 
 **细节探幽篇**  
 [AMM滑点机制详解：交易量与价格的真实关系](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/AMM%E6%BB%91%E7%82%B9%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3%EF%BC%9A%E4%BA%A4%E6%98%93%E9%87%8F%E4%B8%8E%E4%BB%B7%E6%A0%BC%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%85%B3%E7%B3%BB.md)  
-AMM不同类型代码解构和发展趋势  
+[AMM不同类型代码解构和发展趋势](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/AMM%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%9E%8B%E4%BB%A3%E7%A0%81%E8%A7%A3%E6%9E%84%E5%92%8C%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF.md)  
 比特币ETF市场效应初步分析：华尔街的意图？
 
 **行业认知篇**  
