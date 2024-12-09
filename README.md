@@ -25,7 +25,6 @@ DeFi是现阶段Web3发展的基石，事实上我也认为DeFi summer是Web3发
 [比特币ETF市场效应初步分析：华尔街的意图？](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E6%AF%94%E7%89%B9%E5%B8%81ETF%E5%B8%82%E5%9C%BA%E6%95%88%E5%BA%94%E5%88%9D%E6%AD%A5%E5%88%86%E6%9E%90%EF%BC%9A%E5%8D%8E%E5%B0%94%E8%A1%97%E7%9A%84%E6%84%8F%E5%9B%BE%EF%BC%9F.md)
 
 **行业认知篇**  
-DeFi的未来演化方向  
 DeFi赛道的流动性进化之路  
 [主流国家的最新监管政策盘点](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E4%B8%BB%E6%B5%81%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%9C%80%E6%96%B0%E7%9B%91%E7%AE%A1%E6%94%BF%E7%AD%96%E7%9B%98%E7%82%B9.md)  
 [PayFi崛起的前景初探](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9308-%E6%94%AF%E4%BB%98%E7%A0%94%E7%A9%B6.md)
