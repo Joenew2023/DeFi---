@@ -3,8 +3,6 @@ DeFi是现阶段Web3发展的基石，事实上我也认为DeFi summer是Web3发
 
 具体包括：
 
-***备注：列出过往研究记录的篇名如下，正在进行过往报告的脱敏、更新和上传工作，拟逐步于2024.12.10日前完成，全部完成的报告将显示超链接。还望读者理解，将尽快完成此项工作。***
-
 **细分赛道篇**  
 [细分赛道01-DEX研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9301-DEX%E7%A0%94%E7%A9%B6.md)  
 [细分赛道02-借贷研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9302-%E5%80%9F%E8%B4%B7%E7%A0%94%E7%A9%B6.md)  
@@ -17,7 +15,7 @@ DeFi是现阶段Web3发展的基石，事实上我也认为DeFi summer是Web3发
 [细分赛道09-NFTfi研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9309-NFTfi%E7%A0%94%E7%A9%B6.md)  
 [细分赛道10-跨链桥研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9310-%E8%B7%A8%E9%93%BE%E6%A1%A5%E7%A0%94%E7%A9%B6.md)  
 [细分赛道11-质押与再质押研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9311-%E8%B4%A8%E6%8A%BC%E5%92%8C%E5%86%8D%E8%B4%A8%E6%8A%BC%E7%A0%94%E7%A9%B6.md)  
-细分赛道12-市场预测赛道研究
+[细分赛道12-市场预测赛道研究](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%9312-%E5%B8%82%E5%9C%BA%E9%A2%84%E6%B5%8B%E8%B5%9B%E9%81%93%E7%A0%94%E7%A9%B6.md)
 
 **细节探幽篇**  
 [AMM滑点机制详解：交易量与价格的真实关系](https://github.com/Joenew2023/DeFi-research-by-Joe-update-irregularly/blob/main/AMM%E6%BB%91%E7%82%B9%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3%EF%BC%9A%E4%BA%A4%E6%98%93%E9%87%8F%E4%B8%8E%E4%BB%B7%E6%A0%BC%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%85%B3%E7%B3%BB.md)  
